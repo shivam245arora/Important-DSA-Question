@@ -1,2 +1,3 @@
 # Important-DSA-Question
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Here, I have done the best of the best DSA questions, which were handpicked by the MNC recruiters.
+Hope It Will help you also.😊😊
