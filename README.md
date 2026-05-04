@@ -7,6 +7,7 @@ Hope It Will help you also.😊😊
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0007-reverse-integer) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Enumeration
 |  |
