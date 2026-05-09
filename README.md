@@ -21,6 +21,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,4 +30,12 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
