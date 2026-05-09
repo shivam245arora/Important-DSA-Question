@@ -30,9 +30,11 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Array
 |  |
 | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
