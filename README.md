@@ -8,6 +8,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Enumeration
 |  |
@@ -36,12 +37,14 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
