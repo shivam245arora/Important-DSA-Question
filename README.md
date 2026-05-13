@@ -22,6 +22,7 @@ Hope It Will help you also.😊😊
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
@@ -47,6 +48,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
