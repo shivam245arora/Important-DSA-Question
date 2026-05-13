@@ -41,6 +41,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -52,4 +53,12 @@ Hope It Will help you also.😊😊
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
