@@ -17,6 +17,7 @@ Hope It Will help you also.😊😊
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 ## String
@@ -40,6 +41,7 @@ Hope It Will help you also.😊😊
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
