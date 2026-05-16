@@ -8,6 +8,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Enumeration
@@ -65,4 +66,12 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
