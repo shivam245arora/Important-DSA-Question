@@ -8,6 +8,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -60,6 +61,7 @@ Hope It Will help you also.😊😊
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 ## Matrix
