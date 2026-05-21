@@ -37,6 +37,7 @@ Hope It Will help you also.😊😊
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -47,6 +48,7 @@ Hope It Will help you also.😊😊
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -76,4 +78,16 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
