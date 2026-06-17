@@ -20,6 +20,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 ## String
@@ -37,6 +38,7 @@ Hope It Will help you also.😊😊
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
@@ -47,6 +49,7 @@ Hope It Will help you also.😊😊
 | [0001-two-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
@@ -83,6 +86,7 @@ Hope It Will help you also.😊😊
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -92,4 +96,8 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
