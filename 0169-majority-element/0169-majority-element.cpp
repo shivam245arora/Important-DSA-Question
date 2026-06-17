@@ -1,8 +1,15 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
         int n=nums.size();
-        return nums[n/2];
+        unordered_map<int,int>mp;
+        for(int i:nums){
+            mp[i]++;
+        }
+        for(auto const& [k,v]: mp){
+            if(v>n/2){
+                return k;
+            }
+        }return -1;
     }
 };
