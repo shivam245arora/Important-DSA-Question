@@ -54,6 +54,7 @@ Hope It Will help you also.😊😊
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -103,4 +104,12 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
