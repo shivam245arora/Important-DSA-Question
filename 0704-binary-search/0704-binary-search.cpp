@@ -4,7 +4,7 @@ public:
             int l = 0, r = v.size() - 1;
     while (l <= r)
     {
-        int m = (l + r) / 2;
+        int m = l+(r-l)/2;
         if (v[m] == key)
         {
             return m;
