@@ -50,6 +50,7 @@ Hope It Will help you also.😊😊
 | ------- |
 | [0001-two-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ Hope It Will help you also.😊😊
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
