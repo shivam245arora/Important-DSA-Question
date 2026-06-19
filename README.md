@@ -8,6 +8,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
