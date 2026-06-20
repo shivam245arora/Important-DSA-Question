@@ -59,6 +59,7 @@ Hope It Will help you also.😊😊
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -118,4 +119,8 @@ Hope It Will help you also.😊😊
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
