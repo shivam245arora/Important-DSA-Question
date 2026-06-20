@@ -13,6 +13,7 @@ Hope It Will help you also.😊😊
 | [0070-climbing-stairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2769-find-the-maximum-achievable-number) |
 ## Enumeration
 |  |
 | ------- |
