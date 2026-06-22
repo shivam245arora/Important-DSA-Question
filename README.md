@@ -30,6 +30,7 @@ Hope It Will help you also.😊😊
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
@@ -135,4 +136,8 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
