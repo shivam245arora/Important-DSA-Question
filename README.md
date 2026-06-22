@@ -65,6 +65,7 @@ Hope It Will help you also.😊😊
 | [0560-subarray-sum-equals-k](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -140,4 +141,9 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
