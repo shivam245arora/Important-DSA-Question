@@ -67,6 +67,7 @@ Hope It Will help you also.😊😊
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1732-find-the-highest-altitude](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -89,6 +90,7 @@ Hope It Will help you also.😊😊
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
