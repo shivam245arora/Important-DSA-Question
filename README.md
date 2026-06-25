@@ -158,6 +158,7 @@ Hope It Will help you also.😊😊
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
