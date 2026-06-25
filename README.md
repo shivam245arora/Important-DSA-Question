@@ -23,6 +23,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
@@ -76,6 +77,7 @@ Hope It Will help you also.😊😊
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
@@ -150,4 +152,8 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
