@@ -86,6 +86,7 @@ Hope It Will help you also.😊😊
 | [0234-palindrome-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -167,4 +168,5 @@ Hope It Will help you also.😊😊
 | [0141-linked-list-cycle](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
