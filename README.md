@@ -7,6 +7,7 @@ Hope It Will help you also.😊😊
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0069-sqrtx) |
@@ -143,6 +144,7 @@ Hope It Will help you also.😊😊
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -158,6 +160,7 @@ Hope It Will help you also.😊😊
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0234-palindrome-linked-list) |
