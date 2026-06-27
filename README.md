@@ -28,6 +28,7 @@ Hope It Will help you also.😊😊
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ Hope It Will help you also.😊😊
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Array
@@ -66,6 +68,7 @@ Hope It Will help you also.😊😊
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0643-maximum-average-subarray-i) |
@@ -119,18 +122,22 @@ Hope It Will help you also.😊😊
 | ------- |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -172,4 +179,8 @@ Hope It Will help you also.😊😊
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0876-middle-of-the-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
