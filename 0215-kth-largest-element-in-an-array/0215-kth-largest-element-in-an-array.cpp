@@ -6,9 +6,9 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             pq.push(nums[i]);
         }
-        while (k - 1) {
+        for(int j=0;j<k-1;j++) {
             pq.pop();
-            k--;
+            
         }
         return pq.top();
     }
