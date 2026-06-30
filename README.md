@@ -50,6 +50,7 @@ Hope It Will help you also.😊😊
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ Hope It Will help you also.😊😊
 | [0069-sqrtx](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -196,6 +198,7 @@ Hope It Will help you also.😊😊
 | [0100-same-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Hope It Will help you also.😊😊
 | [0100-same-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
