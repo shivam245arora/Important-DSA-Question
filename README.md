@@ -29,6 +29,7 @@ Hope It Will help you also.😊😊
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ Hope It Will help you also.😊😊
 | [0125-valid-palindrome](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +142,7 @@ Hope It Will help you also.😊😊
 | ------- |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -208,4 +211,8 @@ Hope It Will help you also.😊😊
 | ------- |
 | [0100-same-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
