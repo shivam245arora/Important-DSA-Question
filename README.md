@@ -199,12 +199,14 @@ Hope It Will help you also.😊😊
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,11 +214,13 @@ Hope It Will help you also.😊😊
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
 ## Queue
 |  |
 | ------- |
