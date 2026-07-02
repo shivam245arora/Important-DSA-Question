@@ -209,6 +209,7 @@ Hope It Will help you also.😊😊
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,8 +226,17 @@ Hope It Will help you also.😊😊
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
