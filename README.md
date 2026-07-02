@@ -209,6 +209,7 @@ Hope It Will help you also.😊😊
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -226,6 +227,7 @@ Hope It Will help you also.😊😊
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
@@ -234,9 +236,11 @@ Hope It Will help you also.😊😊
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
