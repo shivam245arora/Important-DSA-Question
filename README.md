@@ -71,6 +71,7 @@ Hope It Will help you also.😊😊
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0303-range-sum-query-immutable) |
@@ -115,6 +116,7 @@ Hope It Will help you also.😊😊
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Hope It Will help you also.😊😊
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
@@ -226,6 +229,7 @@ Hope It Will help you also.😊😊
 | [0100-same-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
@@ -236,6 +240,7 @@ Hope It Will help you also.😊😊
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivam245arora/Important-DSA-Question/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam245arora/Important-DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
